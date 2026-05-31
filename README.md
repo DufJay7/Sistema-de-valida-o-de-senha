@@ -10,7 +10,7 @@ Projeto de estudo feito no SENAI, no curso de Python de "Técnico em Desenvolvim
     <li>Depois... "Mãos na MASSA!" defini algumas variável, que em Python, podemos usar apenas nomes, sem ser palavras reservadas, como em Javascript.</li>
     <li>Seguindo, fui fazer a <b>Estruturas de Repetição</b>, usando o "While" que significa "Enquanto", para defini a lógica, de como meu "sistema" vai se comportar.</li>
     <li>No ínicio, fiz a lógica sem levar em consideração <b>a quantidades de tentativas</b>, que seria necessário para o usuário consegui acessar o "sistema", com o auxílio do professor, defini as tentativas usando os <b>Operadores Relacionais, Lógicos e os de Atribuição</b> </li>
-    <li>Tive que atribui no final, uma espécie de <b>Validação</b>, para o sistema ver se o usuário digitou a senha em número ou em letras, pois o "sistema" que criei só aceita números, nesse caso tiver que recorrer a IA </li>
+    <li>Tive que atribui no final, uma espécie de <b>Validação</b>, para o sistema ver se o usuário digitou a senha em número ou em letras, pois o "sistema" que criei só aceita números, nesse caso tiver que recorrer a IA, estou usando o <a href="https://claude.ai/">Claude</a>, para me ajudar nos meus estudos</li>
   </ol>
   <p>Feito isso meu código funcionou certinho, seguindo a lógica que fui mudando ao longo do processo.</p>
 </div>
