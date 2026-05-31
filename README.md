@@ -14,4 +14,5 @@ Projeto de estudo feito no SENAI, no curso de Python de "Técnico em Desenvolvim
   </ol>
   <p>Feito isso meu código funcionou certinho, seguindo a lógica que fui mudando ao longo do processo, prentendo recriar ele em Javascript e criar um design, usando HTML e CSS, para ficar mais intuitivo, usando meus conhecimentos de <b>Designer Gráfico</b></p>
   <p>Segue abaixo, o meu <b>Fluxograma</b></p>
+  <img sfr />
 </div>
