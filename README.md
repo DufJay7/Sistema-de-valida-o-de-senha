@@ -13,4 +13,5 @@ Projeto de estudo feito no SENAI, no curso de Python de "Técnico em Desenvolvim
     <li>Tive que atribui no final, uma espécie de <b>Validação</b>, para o sistema ver se o usuário digitou a senha em número ou em letras, pois o "sistema" que criei só aceita números, nesse caso tiver que recorrer a IA, estou usando o <a href="https://claude.ai/">Claude</a>, para me ajudar nos meus estudos</li>
   </ol>
   <p>Feito isso meu código funcionou certinho, seguindo a lógica que fui mudando ao longo do processo, prentendo recriar ele em Javascript e criar um design, usando HTML e CSS, para ficar mais intuitivo, usando meus conhecimentos de <b>Designer Gráfico</b></p>
+  <p>Segue abaixo, o meu <b>Fluxograma</b></p>
 </div>
