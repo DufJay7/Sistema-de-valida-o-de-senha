@@ -1,4 +1,4 @@
-# Sistema-de-valida-o-de-senha
+# Sistema-de-Validacao-de-Senha
 Projeto de estudo feito no SENAI, no curso de Python de "Técnico em Desenvolvimento de Sistemas"
 <div>
   <p>Olá segue um projeto de estudo, feito no curso, para aprimorar meus conhecimento em Lógica de Programação em Python,
